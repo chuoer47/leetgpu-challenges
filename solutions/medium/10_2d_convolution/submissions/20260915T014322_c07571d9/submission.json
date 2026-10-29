@@ -1,0 +1,17 @@
+{
+  "id": "c07571d9-4256-4d09-898f-5772df3f658a",
+  "accelerator": "T4",
+  "language": "cuda",
+  "status": "success",
+  "createdAt": "2026-09-15T01:43:22.047743Z",
+  "isPublic": true,
+  "hasTrace": true,
+  "challengeId": 10,
+  "files": [
+    {
+      "path": "solutions/medium/10_2d_convolution/submissions/20260915T014322_c07571d9/solution.cu",
+      "sha256": "6b978a6dc9a19f9a9506c703b022d461793b3a8956a2d4c339a7a88fe69ab870"
+    }
+  ],
+  "source": "https://leetgpu.com/"
+}

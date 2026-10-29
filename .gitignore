@@ -69,3 +69,8 @@ env/
 **/*.pyc
 **/*.pyo
 **/*.pyd
+
+# Local practice output and environments
+benchmarks/local/
+experiments/*
+.venv/

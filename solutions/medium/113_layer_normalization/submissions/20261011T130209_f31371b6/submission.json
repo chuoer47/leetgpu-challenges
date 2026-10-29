@@ -1,0 +1,17 @@
+{
+  "id": "f31371b6-a476-4043-bafd-0ecc3c7d2d1f",
+  "accelerator": "T4",
+  "language": "cuda",
+  "status": "success",
+  "createdAt": "2026-10-11T13:02:09.867628Z",
+  "isPublic": true,
+  "hasTrace": true,
+  "challengeId": 113,
+  "files": [
+    {
+      "path": "solutions/medium/113_layer_normalization/submissions/20261011T130209_f31371b6/solution.cu",
+      "sha256": "4579dd7251b8300263ad00f5573e7a3b3cd475370c0d85f1b182e04375ed99ce"
+    }
+  ],
+  "source": "https://leetgpu.com/"
+}

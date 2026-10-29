@@ -1,0 +1,3 @@
+# Keep imported source snapshots and validation artifacts byte-for-byte reproducible.
+solutions/**/submissions/** -text
+site-archive/** -text

@@ -1,0 +1,17 @@
+{
+  "id": "ecb3f3c7-cf4e-425b-b709-9181bbedef2a",
+  "accelerator": "T4",
+  "language": "cuda",
+  "status": "success",
+  "createdAt": "2026-10-01T04:46:18.900896Z",
+  "isPublic": true,
+  "hasTrace": true,
+  "challengeId": 25,
+  "files": [
+    {
+      "path": "solutions/medium/25_categorical_cross_entropy_loss/submissions/20261001T044618_ecb3f3c7/solution.cu",
+      "sha256": "21ed2e2f6cf6bf2ddf6b69fea6ed04aac25d263750ddfc3605554888c6f96b1d"
+    }
+  ],
+  "source": "https://leetgpu.com/"
+}

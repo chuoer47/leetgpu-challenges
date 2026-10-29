@@ -1,0 +1,17 @@
+{
+  "id": "423c6622-4302-433a-80f3-23f302f100a7",
+  "accelerator": "T4",
+  "language": "cuda",
+  "status": "success",
+  "createdAt": "2026-09-28T02:43:21.208786Z",
+  "isPublic": true,
+  "hasTrace": true,
+  "challengeId": 18,
+  "files": [
+    {
+      "path": "solutions/medium/18_sparse_matrix_vector_multiplication/submissions/20260928T024321_423c6622/solution.cu",
+      "sha256": "9422a277e06576b6382222e1c70118b2e8fbaa9919c26185a1fdba7875198039"
+    }
+  ],
+  "source": "https://leetgpu.com/"
+}
